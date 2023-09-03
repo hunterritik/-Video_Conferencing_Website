@@ -7,12 +7,13 @@ A conference call implementation using WebRTC, Socket.io and Node.js. This demo 
 - `cd src`
 - `node app.js` or `npm start`
 
-![WhatsApp Image 2023-09-04 at 12 28 09 AM](https://github.com/hunterritik/-Video_Conferencing_Website/assets/113642152/76cb2ab6-ade5-4f3a-89a7-e047133bd5bb)
+
 
 # Features
 - Multi-participants
 - Toggling of video stream
--
+-![WhatsApp Image 2023-09-04 at 12 28 08 AM](https://github.com/hunterritik/-Video_Conferencing_Website/assets/113642152/0b83a713-df06-4014-bfb9-5eccc85d0de4)
+
 
 - Screen sharing
 - Text chat
