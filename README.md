@@ -11,7 +11,8 @@ A conference call implementation using WebRTC, Socket.io and Node.js. This demo 
 # Features
 - Multi-participants
 - Toggling of video stream
-- Toggling of audio stream (mute & unmute)
+- Toggling of audio stream (mute & unmute)![WhatsApp Image 2023-09-04 at 12 28 09 AM](https://github.com/hunterritik/-Video_Conferencing_Website/assets/113642152/ea4fcb69-af6d-4ee2-8d76-1bd9ae31826f)
+
 - Screen sharing
 - Text chat
 - Mute individual participant
@@ -20,13 +21,7 @@ A conference call implementation using WebRTC, Socket.io and Node.js. This demo 
 - Video Recording
 
  
-# Demo
-You can test at https://chat.1410inc.xyz.
-
 
 # Note
 You can create a free xirsys account and use their free ice server. You can replace the one used with your own at `src/assets/js/helpers.js`, function `getIceServer()`. The demo may not work as my xirsys account has been deactivated for reasons best known to them (perhaps the hits were too much) and I am not ready to create a new one. Create yours or look for an alternative.
 
-
-# Alternative
-If you prefer to use PHP Web socket (Ratchet) instead of socket.io and NodeJS, check out the PHP version [here](https://github.com/amirsanni/conference-call-ratchet).
